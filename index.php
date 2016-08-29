@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
+    <head>
     <div>
-        <h1>Hello! My name is! wiki wiki Slim Shady!</h1>
+        <h1>Domino Stats for life</h1>
     </div>
+    </head>
 </html>
